@@ -5,7 +5,7 @@
 <tr>
 <td width="65%" valign="top">
 
-### Hi , I'm **Facundo**
+### 👋 Hi , I'm **Facundo**
 
   a **Full Stack Developer and QA Tester** from Montevideo, Uruguay 🇺🇾
 
