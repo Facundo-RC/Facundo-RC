@@ -5,9 +5,9 @@
 <tr>
 <td width="65%" valign="top">
 
-### Hi there 👋
+### Hi , I'm **Facundo**
 
-I'm **Facundo**, a **Full Stack Developer and QA Tester** from Montevideo, Uruguay 🇺🇾
+  a **Full Stack Developer and QA Tester** from Montevideo, Uruguay 🇺🇾
 
 I build REST APIs in **C#/.NET**, web apps with **JavaScript and React**… and then I try to break them before anyone else does 🧪
 
