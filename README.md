@@ -68,13 +68,6 @@ Customer catalog with filters and detail view, plus an admin mode to publish, ed
 
 ---
 
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Facundo-RC&show_icons=true&hide_border=true&title_color=7B2231&icon_color=7B2231&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-RC&layout=compact&hide_border=true&title_color=7B2231&text_color=c9d1d9&bg_color=0d1117" />
-</p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Facundo-RC&hide_border=true&background=0D1117&ring=7B2231&fire=7B2231&currStreakLabel=7B2231" />
 </p>
