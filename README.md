@@ -68,12 +68,6 @@ Customer catalog with filters and detail view, plus an admin mode to publish, ed
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Facundo-RC&hide_border=true&background=0D1117&ring=7B2231&fire=7B2231&currStreakLabel=7B2231" />
-</p>
-
----
-
 ### 📫 Let's connect
 
 <p align="center">
